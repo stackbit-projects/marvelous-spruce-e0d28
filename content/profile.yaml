@@ -4,7 +4,7 @@
   email: john.doe@change.me
   profession: Frontend Engineer
   image: images/profile.jpg
-  location: 'New York, USA'
+  location: 'Springville, USA'
   relocation: true
   company: Atomic Studio
   for_hire: true
