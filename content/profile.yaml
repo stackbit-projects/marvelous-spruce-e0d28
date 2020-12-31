@@ -7,7 +7,7 @@
   location: 'Springville, USA'
   relocation: false
   company: Atomic Studio
-  for_hire: true
+  for_hire: false
   focus: Learning Gatsby
   focus_url: 'https://gatsbyjs.org'
   about: >
