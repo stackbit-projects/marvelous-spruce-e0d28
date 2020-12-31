@@ -6,7 +6,7 @@
   image: images/profile.jpg
   location: 'Springville, USA'
   relocation: false
-  company: Atomic Studio
+  company: 'TruGolf, Inc.'
   for_hire: false
   focus: Learning Gatsby
   focus_url: 'https://gatsbyjs.org'
